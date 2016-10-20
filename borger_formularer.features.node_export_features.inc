@@ -9292,7 +9292,7 @@ function borger_formularer_node_export_features_default() {
         \'next_serial\' => \'71\',
         \'confirmation\' => \'\',
         \'confirmation_format\' => \'full_html\',
-        \'redirect_url\' => \'webform/[node:nid]/submission/[submission:sid]/done\',
+        \'redirect_url\' => \'<confirmation>\',
         \'status\' => \'1\',
         \'block\' => \'0\',
         \'allow_draft\' => \'0\',
