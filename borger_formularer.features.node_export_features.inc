@@ -9,7 +9,7 @@
  */
 function borger_formularer_node_export_features_default() {
   $node_export = array(
-  'code_string' => 'array(
+    'code_string' => 'array(
   (object) array(
       \'changed\' => NULL,
       \'comment\' => \'0\',
@@ -9639,6 +9639,6 @@ function borger_formularer_node_export_features_default() {
       \'node_export_drupal_version\' => \'7\',
     )
 )',
-);
+  );
   return $node_export;
 }
