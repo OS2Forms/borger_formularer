@@ -8,6 +8,7 @@ dependencies[] = features
 dependencies[] = node_export_features
 dependencies[] = strongarm
 dependencies[] = webform
+dependencies[] = os2forms_settings
 features[ctools][] = strongarm:strongarm:1
 features[features_api][] = api:2
 features[node_export_features][] = 100d7653-bf0a-4f87-9787-f766df9e4133
