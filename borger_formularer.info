@@ -10,6 +10,7 @@ dependencies[] = os2forms_settings
 dependencies[] = strongarm
 dependencies[] = text
 dependencies[] = webform
+dependencies[] = webform2pdf
 features[ctools][] = strongarm:strongarm:1
 features[features_api][] = api:2
 features[field_instance][] = node-webform-field_body
